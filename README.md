@@ -11,7 +11,8 @@ ORDER_DETAILS: Quantity and pizza ID per order
 ORDERS: Order ID, date, and time
 
 ### 🔍 Query Categories & Highlights
-✅ Basic Queries
+Basic Queries
+
 Total Orders: Count of all orders placed
 Total Revenue: Sum of quantity × price across all pizzas
 Highest-Priced Pizza: Name and price of the most expensive item
